@@ -83,7 +83,7 @@ function zeroFill(number, width) {
         return new Array(width + (/\./.test(number) ? 2 : 1)).join('0') + number;
     }
 
-    return number + ""; // always return a string
+    return number + "";
 }
 
 function zeroFill(number, width) {
@@ -93,5 +93,5 @@ function zeroFill(number, width) {
         return new Array(width + (/\./.test(number) ? 2 : 1)).join('0') + number;
     }
 
-    return number + ""; // always return a string
+    return number + "";
 }
