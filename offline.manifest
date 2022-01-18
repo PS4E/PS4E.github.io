@@ -1,8 +1,9 @@
 CACHE MANIFEST 
 CACHE: 
-index.html
-сache.manifest
+
+offline.manifest
 goldhen.js
+index.html
 int64.js
 kexploit.js
 rop.js
